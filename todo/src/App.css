@@ -1,0 +1,18 @@
+body{
+  background-color: blanchedalmond;
+  border: 10px solid mediumseagreen;
+  margin: 10px;
+  width: 50%;
+}
+h1{
+  color: blueviolet;
+}
+h2{
+  color: rgb(78, 60, 183);
+}
+text{
+  color: cornflowerblue;
+}
+button{
+  color: darkcyan;
+}

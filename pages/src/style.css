@@ -1,0 +1,25 @@
+body{
+    background-color: cadetblue;
+}
+
+.Home{
+    background-color: blueviolet;
+    color:azure
+}
+
+.One{
+    background-color: bisque;
+    color:red;
+}
+.Two{
+    background-color: beige;
+    color: blue;
+}
+.Three{
+    background-color: blanchedalmond;
+    color: brown;
+}
+.active button{
+    background-color: greenyellow;
+    color:4px solid salmon
+}
